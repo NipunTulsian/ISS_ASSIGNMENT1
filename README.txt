@@ -42,7 +42,7 @@ chmod +x q5.sh
 ./q5.sh
 <input>
 
-git hub repo: https://github.com/NipunTulsian/ISS_Assignment1.git
+git hub repo: https://github.com/NipunTulsian/ISS_ASSIGNMENT1.git
 
 
 
